@@ -11,9 +11,16 @@ ID des serveurs pour lesquels vous voulez que les logs s'affichent. (Si vous vou
 Pour ceux qui n'auraient pas bien compris je montre:
 
 Logs pour serveurs spécifiques
+
+
+
 ![ScreenShot](https://i.imgur.com/Jia7XzS.jpg)
 
 Logs pour tous les serveurs
+
+
+
+
 ![ScreenShot](https://i.imgur.com/2IT7ink.png)
 
 3) Lancez le logiciel vous aurez quelque chose de semblable à la capture d'écran ci-dessous. Collez le webhook dans le logiciel puis appuyez sur Entrée.

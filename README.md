@@ -27,3 +27,5 @@ Logs pour tous les serveurs
 ![ScreenShot](https://i.imgur.com/GfcZ0FW.png)
 
 4) Voilà le logger est prêt ! Si vous avez un quelconque problème, contactez-moi sur discord (IDRALOU#4690). À la prochaine pour de nouveaux logiciels ;)
+
+Le code source est dispo, mais pour ceux qui veulent pas installer Python, il y a un .exe qui fait la même chose.

@@ -26,4 +26,4 @@ Logs pour tous les serveurs
 3) Lancez le logiciel vous aurez quelque chose de semblable à la capture d'écran ci-dessous. Collez le webhook dans le logiciel puis appuyez sur Entrée.
 ![ScreenShot](https://i.imgur.com/GfcZ0FW.png)
 
-4) Voilà le logger est prêt ! Si vous avez un quelconque problème, contactez-moi sur discord (IDRALOU#4690). À la prochaine pour de nouveaux logiciels ;)
+4) Voilà le logger est prêt ! Si vous avez un quelconque problème, contactez-moi sur discord (IDRALOU#0002). À la prochaine pour de nouveaux logiciels ;)

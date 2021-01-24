@@ -1,11 +1,24 @@
 # coding: utf-8
-import discord
-from discord.ext import commands
-import os
-import requests
-from colorama import Fore
-import ctypes
 import json
+import os
+import ctypes
+try:
+    import discord
+    from discord.ext import commands
+except:
+    os.system(f"{sys.executable} -m pip install discord.py")
+    import discord
+    from discord.ext import commands
+try:
+    from colorama import Fore, init
+except:
+    os.system(f"{sys.executable} -m pip install colorama")
+    from colorama import Fore, init
+try:
+    import requests
+except:
+    os.system(f"{sys.executable} -m pip install requests")
+    import requests
 
 ctypes.windll.kernel32.SetConsoleTitleW("LoggerDiscord - Fait par IDRALOU#6966 - Messages Supprimés: 0 | Messages Modifiés: 0")
 os.system('echo \033[1m')

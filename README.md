@@ -3,7 +3,7 @@ Ce logiciel permet d'afficher des logs de tous les messages sur discord avec un 
 #
 Comment utiliser le logiciel ?
 
-1) Récupérez votre token (les messages affichés dans les logs viendront des serveurs dans lesquels vous êtes). Si vous ne savez pas comment faire, [regardez cette vidéo](https://www.youtube.com/watch?v=fv-H68OwsIA)
+1) Récupérez votre token (les messages affichés dans les logs viendront des serveurs dans lesquels vous êtes). Si vous ne savez pas comment faire, [regardez cette vidéo](https://www.youtube.com/watch?v=fv-H68OwsIA).
 
 2) Configurez le config.json comme l'exemple ci-dessous. À côté de "token" vous devez mettre votre token en laissant les guillemets et en dessous, vous pourrez mettre les
 ID des serveurs pour lesquels vous voulez que les logs s'affichent. (Si vous voulez que les logs de tous les serveurs s'affichent, écrivez "all" dans les crochets.

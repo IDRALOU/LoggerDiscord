@@ -31,7 +31,7 @@ edit = 0
 delete = 0
 
 
-client = commands.Bot(command_prefix='!', self_bot=True, help_command=None)
+client = discord.Client()
 
 def read_json(filename):
     with open(f"{filename}.json", "r") as file:
